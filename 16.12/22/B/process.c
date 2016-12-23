@@ -1,3 +1,6 @@
+
+// http://pubs.opengroup.org/onlinepubs/9699919799.2016edition/
+
 #include <unistd.h>
 #include <pwd.h>
 #include <sys/types.h>
